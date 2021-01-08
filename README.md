@@ -28,3 +28,22 @@ Obs.: linha só funciona dps de titulo.
 3. terceiro
 1111. quarto
 50998. quinto
+
+## lista
+
+* tarefa
+* tarefa
+   * tarefa
+   * tarefa
+      * tarefa
+         * tarefa
+            * tarefa
+
+- [ ] tarefa
+- [ ] tarefa
+- [X] tarefa
+- [ ] tarefa
+
+
+
+
