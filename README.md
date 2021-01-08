@@ -55,9 +55,15 @@ Nome | Sobrenome | Telefone
 --- | --- | ---
 Kildere | Henrique | 123456789
 
+`isto é um comando`
+`System.out.println();`
 
+```
+código 
 
-
+```
+Emojis - [Link Emojis](https://gist.github.com/rxaviers/7360908)
+:hand:
 
 
 
