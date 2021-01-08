@@ -1,6 +1,6 @@
 # Curso-Git-GitHub
 Navegador **hehe!**
-MAIN
+Branch
 # APRENDENDO MARKDOWN
 ## titulo nivel 2
 ### titulo nivel 3
