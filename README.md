@@ -1,7 +1,6 @@
 # Curso-Git-GitHub
 Navegador **hehe!**
-derexexexe
-alfabeto xx teste
+MAIN
 # APRENDENDO MARKDOWN
 ## titulo nivel 2
 ### titulo nivel 3
