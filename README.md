@@ -1,5 +1,4 @@
 # Curso-Git-GitHub
-# isto é uma branch
 Navegador **hehe!**
 
 # APRENDENDO MARKDOWN
